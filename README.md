@@ -20,7 +20,7 @@ distribution, found at http://continuum.io/downloads).
 
 Once this is installed, the following command will install all required packages in your Python environment:
 ```
-conda install numpy pandas scipy matplotlib jupyter seaborn
+conda install pandas jupyter seaborn
 ```
 
 But of course, using another distribution (e.g. Enthought Canopy) or pip is good as well, as long
