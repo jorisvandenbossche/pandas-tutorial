@@ -38,6 +38,7 @@ https://github.com/jorisvandenbossche/2015-EuroScipy-pandas-tutorial/archive/mas
 I will probably make some changes until the start of the tutorial, so best to download
 the latest version then (or do a `git pull` if you are using git).
 
+Two data files are not included in the repo, you can downloead them from: [`titles.csv`](https://drive.google.com/file/d/0B3G70MlBnCgKa0U4WFdWdGdVOFU/view?usp=sharing) and [`cast.csv`](https://drive.google.com/file/d/0B3G70MlBnCgKRzRmTWdQTUdjNnM/view?usp=sharing) and put them in the `/data` folder.
 
 ## Content
 
