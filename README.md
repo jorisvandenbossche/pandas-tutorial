@@ -1,5 +1,7 @@
 # EuroScipy 2015 Pandas Tutorial
 
+[![Join the chat at https://gitter.im/jorisvandenbossche/2015-EuroScipy-pandas-tutorial](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jorisvandenbossche/2015-EuroScipy-pandas-tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains the material (notebooks, data) for the pandas tutorial at EuroScipy 2015.
 
 ## Requirements to run this tutorial
