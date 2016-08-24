@@ -1,0 +1,1 @@
+titles.year.value_counts().sort_index().plot()
