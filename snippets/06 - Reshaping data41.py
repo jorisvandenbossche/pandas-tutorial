@@ -1,3 +1,3 @@
-d = c.Superman - c.Batman
-print('Superman years:')
-print(len(d[d > 0.0]))
+temp.columns.name = 'Pclass'
+temp = temp.stack()
+temp

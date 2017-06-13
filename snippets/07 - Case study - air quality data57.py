@@ -1,0 +1,1 @@
+data['month'] = data.index.month

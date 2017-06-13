@@ -1,1 +1,1 @@
-data_stacked.head()
+df['Underaged'] = df['Age'] <= 18

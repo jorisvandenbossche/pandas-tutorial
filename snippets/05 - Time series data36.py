@@ -1,1 +1,1 @@
-data['month'] = data.index.month
+data['2012':]

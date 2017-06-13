@@ -1,1 +1,1 @@
-yearly = data['2000':].resample('A')
+daily = data['LS06_348'].resample('D').mean() # daily avergaes calculated

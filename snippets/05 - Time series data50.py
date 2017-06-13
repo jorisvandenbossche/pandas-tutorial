@@ -1,2 +1,2 @@
-yearly.plot()
-plt.axhline(40, linestyle='--', color='k')
+fig, ax = plt.subplots()
+data['2013'].mean().plot(kind='barh', ax=ax)

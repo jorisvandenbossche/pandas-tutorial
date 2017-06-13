@@ -1,1 +1,1 @@
-data.groupby('month').mean()
+data[data.index.month == 1]

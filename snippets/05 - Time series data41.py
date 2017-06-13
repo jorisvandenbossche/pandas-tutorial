@@ -1,1 +1,1 @@
-df2011[['BETN029', 'BETR801']].resample('W').agg(lambda x: x.quantile(0.75)).plot()
+data.between_time('08:00', '20:00')

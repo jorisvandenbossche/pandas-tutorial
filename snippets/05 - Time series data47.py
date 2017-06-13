@@ -1,2 +1,1 @@
-ax = exceedances.loc[2005:].plot(kind='bar')
-ax.axhline(18, color='k', linestyle='--')
+data.loc['2011':'2012', 'L06_347'].resample('M').agg(['mean', 'median']).plot()

@@ -1,0 +1,1 @@
+yearly = data['2000':].resample('A').mean()

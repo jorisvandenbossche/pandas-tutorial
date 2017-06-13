@@ -1,1 +1,2 @@
-data_stacked.index = pd.to_datetime(data_stacked['date'] + data_stacked['level_1'], format="%Y-%m-%d%H")
+df.pivot_table(index='Underaged', columns='Sex', 
+               values='Fare', aggfunc='mean')

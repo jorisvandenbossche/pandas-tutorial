@@ -1,0 +1,2 @@
+cast.pivot_table(index='year', columns='type', values="character", aggfunc='count').plot() 
+# for values in using the , take a column with no Nan values in order to count effectively all values -> at this stage: aha-erlebnis about crosstab function(!)
