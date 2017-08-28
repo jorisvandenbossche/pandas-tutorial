@@ -1,0 +1,1 @@
+no2['weekday'] = no2.index.weekday

@@ -1,0 +1,1 @@
+no2.groupby(no2.index.hour).mean().plot()
